@@ -2,15 +2,15 @@
   
 ### `—◉ 💥 ATTIVA SU KOYEB 💥`
 
-[![Attiva su Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/unlimited787/Essential-md&branch=master&name=mysticbot)
+[![Attiva su Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/unlimited787/Zeyno-bot-V4.9-md&branch=master&name=mysticbot)
   
 ### `—◉ 🌌 ATTIVA SU REPLIT 🌌`
 
-[![Attiva su Repl.it](https://repl.it/badge/github/unlimited787/Essential-md)](https://repl.it/github/unlimited787/Essential-md)  
+[![Attiva su Repl.it](https://repl.it/badge/github/unlimited787/Essential-md)](https://repl.it/github/Endy-gif/Zeyno-bot-V4.9)  
 
 ### `—◉ ⚙️ CONFIGURAZIONE ⚙️`
-- CLONARE LA REPOSITORY [qui](https://github.com/unlimited787/Essential-md/fork)
-- CAMBIARE NUMERO DEL PROPRIETARIO [qui](https://github.com/unlimited787/Essential-md/blob/master/config.js)
+- CLONARE LA REPOSITORY [qui](https://github.com/Endy-gif/Zeyno-bot-V4.9/fork)
+- CAMBIARE NUMERO DEL PROPRIETARIO [qui](https://github.com/Endy-gif/Zeyno-bot-V4.9/blob/master/config.js)
 
 ### `—◉ VERSIONE DI TERMUX NECESSARIA: ` 
 https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file
@@ -30,7 +30,7 @@ pkg install -y git nodejs && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/unlimited787/Essential-md && cd Essential-md
+git clone https://github.com/Endy-gif/Zeyno-bot-V4.9 && cd Zeyno-bot-V4.9
 ```
 
 ```bash
@@ -53,7 +53,7 @@ sh start.sh
 ```bash
 DIGITA QUESTI COMANDI:
 > cd 
-> cd Essential-md
+> cd Zeyno-bot-V4.9
 > sh start.sh
 ```
 
@@ -61,7 +61,7 @@ DIGITA QUESTI COMANDI:
 ```bash
 DIGITA QUESTI COMANDI:
 > cd 
-> cd Essential-md
+> cd Zeyno-bot-V4.9
 > rm -rf MysticSession
 > sh start.sh
 ```
