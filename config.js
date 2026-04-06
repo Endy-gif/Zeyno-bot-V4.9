@@ -13,10 +13,10 @@ global.owner = [
   ['447393088288', 'ksav', true],
   ['212693877842', 'medalis', true],
   ['17828597250', 'kri',],
-  ['393926427789', 'knor', true]
-  ['573008626736', 'estreia', true]
-  ['393206032199', 'punisher', true]
-  [393520940427', 'nane', true]
+  ['393926427789', 'knor', true],
+  ['573008626736', 'estreia', true],
+  ['393206032199', 'punisher', true],
+  [393520940427', 'nane', true],
 
 ] 
 
