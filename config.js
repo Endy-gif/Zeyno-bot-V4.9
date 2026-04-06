@@ -8,19 +8,25 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['393312171655', '𝐄𝐒𝐒𝐄𝐍𝐓𝐈𝐀𝐋 𝐁Ꮻ𝐓', true],
-  ['377607935810'],
-  ['393756447945'],
-  ['393312171655']
+  ['393501989497', 'Endy', true],
+  ['447449205584', 'Endy voip', true],
+  ['447393088288', 'ksav', true],
+  ['212693877842' 'medalis', true],
+  ['17828597250' 'kri',],
+  ['393926427789' 'knor', true]
+  ['573008626736' 'estreia', true]
+  ['393206032199' 'punisher', true]
+  [393520940427' 'nane', true]
+
 ] 
 
-global.suittag = ['393312171655'] 
-global.prems = ['393312171655'] 
+global.suittag = ['393501989497'] 
+global.prems = ['393501989497'] 
 
-global.packname = '𝐄𝐒𝐒𝐄𝐍𝐓𝐈𝐀𝐋'
-global.author = '𝐁Ꮻ𝐓'
-global.wm = '𝐄𝐒𝐒𝐄𝐍𝐓𝐈𝐀𝐋 𝐁Ꮻ𝐓'
-global.igfg = '𝐄𝐒𝐒𝐄𝐍𝐓𝐈𝐀𝐋 𝐁Ꮻ𝐓'
+global.packname = '乙乇ㄚ几ㄖ'
+global.author = '乃ㄖㄒ'
+global.wm = '乙乇ㄚ几ㄖ 乃ㄖㄒ'
+global.igfg = '乙乇ㄚ几ㄖ 乃ㄖㄒ'
 global.wait = 'ok'
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
